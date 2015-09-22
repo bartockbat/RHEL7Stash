@@ -13,4 +13,4 @@ It will not build correctly otherwise.
 
 3. Launch the container: docker run -d -p 7990:7990 -p 8006:8006 atlassian/rhel7-stash
 
-4. Once the container is running, browse to the URL in your browser http://<host_or_IP_address>:7990 and follow the instructions 
+4. Once the container is running, browse to the URL in your browser http://host_or_IP_address:7990 and follow the instructions 
