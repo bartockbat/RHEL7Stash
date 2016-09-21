@@ -1,7 +1,7 @@
 FROM registry.access.redhat.com/rhel7:latest 
 
 #Maintainer
-MAINTAINER Glen Millard "gmillard@redhat.com"
+MAINTAINER Redhat
 
 #
 #Install the necessities
